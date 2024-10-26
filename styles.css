@@ -2,7 +2,7 @@
 
 :root {
     --primary-color: #181c24;
-    --container-color: #28864f;
+    --container-color: #195a34;
     --text-color: #ffffff;
     --button-color: rgb(206, 172, 95);
     --button-hover-color: rgb(196, 162, 85);
@@ -117,7 +117,7 @@ button:active {
     }
 
     .container {
-        width: 60rem;
+        width: 40rem;;
     }
 
     h1 {
